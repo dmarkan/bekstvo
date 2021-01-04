@@ -1,0 +1,77 @@
+body {
+	background:black;
+}
+
+#vrata {
+	margin-left:780px;
+	margin-top:-550px;
+}
+
+#stolica {
+	margin-left:300px;
+	margin-top:280px;
+}
+
+#biljka {
+	margin-left:1200px;
+	margin-top:-180px;
+}
+
+#akvarijum {
+	margin-left:1200px;
+	margin-top:-180px;
+}
+
+#slika {
+	margin-left:530px;
+	margin-top:-98px;
+}
+
+#fascikla {
+	margin-left:1180px;
+	margin-top:320px;
+}
+
+#sifra {
+	margin-left:300px;
+	margin-top:-160px;
+}
+
+#sifra_vrata {
+	margin-left:1px;
+	margin-top:350px;
+	opacity:0;
+}
+
+#uticnica {
+	margin-left:670px;
+	margin-top:-220px;
+}
+
+#sto {
+	margin-left:550px;
+	margin-top:2px;
+}
+
+#tri_slike {
+	margin-left:100px;
+	margin-top:-300px;
+}
+
+#kvaka {
+	margin-left:760px;
+	margin-top:50px;
+}
+
+#zid {
+	margin-left:350px;
+	margin-top:-200px;
+}
+
+#poster {
+	margin-left:90px;
+	margin-top:-100px;
+}
+
+
+
